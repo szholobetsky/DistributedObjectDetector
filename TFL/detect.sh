@@ -1,0 +1,1 @@
+python3 WCDETECT.py --modeldir=Sample_TFLite_model --image=Image244.jpg --threshold=0.3
